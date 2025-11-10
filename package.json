@@ -1,0 +1,14 @@
+{
+  "name": "adgenius-backend",
+  "version": "1.0.0",
+  "description": "Backend server for AdGenius AI image and ad generation",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
